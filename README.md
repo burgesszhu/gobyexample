@@ -1,0 +1,1 @@
+# gobyexample-from channel
